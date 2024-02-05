@@ -42,7 +42,7 @@
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/FujiwaraChoki)
 
 ### OS
-[![Mac](https://cdn-icons-png.flaticon.com/512/2/2235.png)](https://github.com/FujiwaraChoki)
+[![Mac](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/FujiwaraChoki)
 
 <details>
 <p align="center">
