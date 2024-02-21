@@ -1,7 +1,7 @@
 <p align="center">
     <b>Welcome!</b><br><br>
     <i>
-        I'm SomeOne1Random, and I'm currently learning DL, Automation, Python and Java (and some C++).<br>
+        I'm SomeOne1Random, and I'm currently learning DL, Automation, Python and Rust (and some Java for school).<br>
     </i><br>
     <h2 align="center">Project Help</h2>
     <p align="center">I build stuff for biotechnology just send me an <a href="mailto:srujyama@udel.edu">E-Mail</a> to see how I can help you out.</p><br />
