@@ -18,9 +18,7 @@
 ### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/FujiwaraChoki)
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/FujiwaraChoki)
-[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/FujiwaraChoki)
-[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/FujiwaraChoki)
-[![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/FujiwaraChoki)
+
 
 ### ML/DL
 [![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)](https://github.com/FujiwaraChoki)
