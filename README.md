@@ -4,8 +4,6 @@
         I'm SomeOne1Random, and I'm currently learning Python for ML with a focus on Computer Vision. 
         I am also do hobby Rust work (and some Java for school).<br>
     </i><br>
-    <h2 align="center">Project Help</h2>
-    <p align="center">I build stuff for biotechnology just send me an <a href="mailto:srujyama@udel.edu">E-Mail</a> to see how I can help you out.</p><br />
 </p>
 
 <div align="center">
