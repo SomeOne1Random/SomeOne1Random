@@ -1,8 +1,9 @@
 <p align="center">
     <b>Welcome!</b><br><br>
     <i>
-        I'm SomeOne1Random, and I'm currently learning Python for ML with a focus on Computer Vision. 
-        I am also do hobby Rust work (and some Java for school).<br>
+        I'm Srujan Yamali (SomeOne1Random), and I'm currently learning Python for ML with a focus on Computer Vision. 
+        I am also do hobby Rust work (and some Java for school). Previously I worked with computer vision with Drosophila at UDel and Machine learning with computer vision  at Cornell. I am currently working with Microbial           Arc at the Children's Hospital of Philadelphia to check the evolutionary history of different Bacteria.  
+<br>
     </i><br>
 </p>
 
