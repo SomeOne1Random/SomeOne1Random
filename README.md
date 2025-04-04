@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://i.ibb.co/DgVY54Gd/your-banner.png" alt="Srujan Yamali Banner" style="width:100%;">
-</p>
-
 <h1 align="center">Hi, I'm Srujan Yamali (SomeOne1Random) 👋</h1>
 
 <p align="center">
