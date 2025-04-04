@@ -2,10 +2,6 @@
 
 <p align="center">
   I'm currently diving into <b>Python for Machine Learning</b> with a focus on <b>Computer Vision</b>. 
-  <br/>
-  I do hobby work in <b>Rust</b> and some <b>Java</b> for school. 
-  <br/>
-  I've worked on Drosophila CV at <b>University of Delaware</b>, ML & CV research at <b>Cornell</b>, and currently at <b>Children’s Hospital of Philadelphia</b> on microbial evolution.
 </p>
 
 <div align="center">
